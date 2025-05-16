@@ -1,1 +1,1 @@
-# deco-panel
+# Deco Panel App
